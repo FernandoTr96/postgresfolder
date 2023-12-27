@@ -1,1 +1,3 @@
 # postgresfolder
+
+Notas para sql
