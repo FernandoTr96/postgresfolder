@@ -1,0 +1,14 @@
+-- normalizacion
+-- no meter basura
+-- accesible
+-- cumplir expectativas
+-- investigar db ya hechas
+-- mantenla simple
+-- estandarizacion
+-- diagramas
+-- pruebas
+-- no abreviaturas
+-- tablas en singular
+-- aplicar validaciones desde un inicio como checks, indices, etc
+-- mantener privacidad
+-- usar ingles, minusculas sin espacios
